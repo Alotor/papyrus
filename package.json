@@ -1,0 +1,6 @@
+{
+    "devDependencies": {
+        "indexeddb-js": "0.0.14",
+        "sqlite3": "^3.1.8"
+    }
+}
